@@ -57,7 +57,7 @@ You can customize the workflow to suit your needs by modifying the following con
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](./LICENSE).
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the [LICENSE](https://github.com/graftechnology/alfred-code-dispatcher/blob/main/LICENSE) file for more details.
 
 ---
 
